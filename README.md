@@ -49,7 +49,7 @@ To run the project locally:
 
 ## Live Demo
 
-Portfolio link: coming soon
+https://koy-portfolio.vercel.app
 
 ## Contact
 
